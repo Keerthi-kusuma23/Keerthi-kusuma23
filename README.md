@@ -25,12 +25,6 @@ I'm passionate about building intelligent applications using Artificial Intellig
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-kusuma23&layout=compact&theme=tokyonight)
 
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-kusuma23&layout=compact&theme=tokyonight"/>
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
