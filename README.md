@@ -19,11 +19,11 @@ I'm passionate about building intelligent applications using Artificial Intellig
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthi-kusuma23&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthi-kusuma23&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=Keerthi-kusuma23&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-kusuma23&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-kusuma23&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-kusuma23&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
