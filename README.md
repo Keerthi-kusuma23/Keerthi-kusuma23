@@ -19,9 +19,11 @@ I'm passionate about building intelligent applications using Artificial Intellig
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keerthi-kusuma23&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthi-kusuma23&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-kusuma23&layout=compact&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
@@ -101,7 +103,7 @@ GitHub:
 https://github.com/Keerthi-kusuma23
 
 LinkedIn:
-[(Add your LinkedIn)](https://www.linkedin.com/in/keerthi-n-9b353722a)
+https://www.linkedin.com/in/keerthi-n-9b353722a
 
 Email:
 keerthi30@gmail.com
