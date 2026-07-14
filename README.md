@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Keerthi
 
-## 🚀 AI Engineer | Python Developer | Generative AI Enthusiast
+## 🚀 Data Scientist  |  AI Engineer | Generative AI Enthusiast
 
 Welcome to my GitHub!
 
