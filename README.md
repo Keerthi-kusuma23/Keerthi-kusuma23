@@ -1,92 +1,66 @@
-# Hi there 👋, I'm Keerthi
+# Hi there 👋 I'm Keerthi
 
 ## 🚀 AI Engineer | Python Developer | Generative AI Enthusiast
 
-I'm passionate about building intelligent applications using Artificial Intelligence, Machine Learning, and Large Language Models.
+Welcome to my GitHub!
 
-I enjoy solving real-world problems through AI-powered solutions and continuously exploring emerging technologies.
+I'm passionate about building intelligent applications using Artificial Intelligence, Machine Learning, and Generative AI. I enjoy solving real-world problems by combining AI with software engineering.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning **Advanced Generative AI & LLM Applications**
-- 🤖 Building AI-powered applications using **FastAPI & Python**
-- 💡 Interested in AI Agents, NLP, RAG, LangGraph and Machine Learning
-- 🎯 Goal: Become an AI Engineer and contribute to impactful AI products
+- 🌱 Currently learning Advanced Generative AI & AI Agents
+- 🤖 Building AI-powered applications using Python & FastAPI
+- 💡 Interested in LLMs, NLP, RAG, LangGraph and Machine Learning
+- 🎯 Aspiring AI Engineer
+- 📍 Bengaluru, India
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### AI & Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge)
-
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
-
-![LLM](https://img.shields.io/badge/Large%20Language%20Models-purple?style=for-the-badge)
-
----
+### AI & ML
+- Machine Learning
+- Generative AI
+- NLP
+- Large Language Models (LLMs)
 
 ### Frameworks
-
 - FastAPI
+- Streamlit
 - LangChain
 - LangGraph
-- Streamlit
-
----
 
 ### Databases
-
 - SQLite
 - MySQL
 
----
-
 ### Tools
-
-Git • GitHub • VS Code • Postman
-
----
-
-# ⭐ Featured Projects
-
-## 🩺 AI Health & Fitness Planner
-
-An AI-powered health assistant that generates personalized fitness and nutrition plans.
-
-**Tech Used**
-
-- Python
-- FastAPI
-- Gemini AI
-- SQLite
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ---
 
-## 📄 AI Resume Screening System
+## 📌 Featured Projects
 
-Smart Resume Screening application that compares resumes against Job Descriptions using AI.
+🩺 AI Health & Fitness Planner
 
----
+📄 AI Resume Screening System
 
-## 🎤 AI Interview Evaluation
+🎤 AI Interview Evaluation
 
-Automated Interview Assessment system that evaluates candidate performance from interview transcripts.
+🤖 Generative AI Applications
 
 ---
 
@@ -97,24 +71,20 @@ Automated Interview Assessment system that evaluates candidate performance from 
 - MCP
 - RAG
 - Advanced Prompt Engineering
-- Multi-Agent Systems
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub
-
+GitHub:
 https://github.com/Keerthi-kusuma23
 
-LinkedIn
+LinkedIn:
+[(Add your LinkedIn)](https://www.linkedin.com/in/keerthi-n-9b353722a)
 
-https://www.linkedin.com/in/keerthi-n-9b353722a
-
-Email
-
+Email:
 keerthi30@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
