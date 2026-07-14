@@ -16,16 +16,16 @@ I'm passionate about building intelligent applications using Artificial Intellig
 - 🎯 Aspiring AI Engineer
 - 📍 Bengaluru, India
 
--## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keerthi-kusuma23&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthi-kusuma23&theme=github_dark" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-kusuma23&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keerthi-kusuma23&theme=github_dark" />
 </p>
 
 ## 🔥 GitHub Streak
